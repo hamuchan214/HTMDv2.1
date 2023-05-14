@@ -1,4 +1,4 @@
-21472262060321513
+21479002156442226
 0-Myparts
 2x20pin socket 2.54mmpins
 
@@ -7,9 +7,30 @@
 40
 40
 0-Myparts
+A3944KLPTRT
+LP_28-pin eTSSOP
+Integrated Circuit
+0
+29
+29
+0-Myparts
 ADuM130E
 16-Lead SOIC N
 Integrated Circuit
+0
+16
+16
+0-Myparts
+ADuM140E
+
+ADUM140E0BRWZ-RL 
+0
+16
+16
+0-Myparts
+ADuM140ER
+
+ADUM140E0BRWZ-RL 
 0
 16
 16
@@ -223,6 +244,13 @@ SQJ180EP-T1_GE3
 0
 5
 3
+0-Myparts
+SQJ180EPT1_GE3
+SQJ180EP-T1_GE3-1
+MOSFET (N-Channel)
+0
+6
+6
 0-Myparts
 SS2040FL
 
